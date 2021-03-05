@@ -15,7 +15,7 @@ public class A {
 	   extractedMethod(edgeList, p);
       // other implementation
       return null;
-   }
+   }//end of m2
 
    /**
     * Extract Method Refactoring by Type Parameterizing
